@@ -1,3 +1,18 @@
+
+
+# Reaction-NodeJS-MongoDB-App
+
+Training developing a React, NosdeJS and MongoDB Full-Stack Training
+
+## Getting Started
+
+Lorem Ipsum, Lorem Ipsum,Lorem Ipsum Lorem Ipsum
+
+### Prerequisites
+
+Install them from command line:
+
+```
 (1) npm init -y
 (2) npm i --save express
 (3) npm i --save mongodb
@@ -13,3 +28,4 @@
 -----------------------------------------------
 (9) npm i prop-types  (react package separated on its own)
 -----------------------------------------------
+```
